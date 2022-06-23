@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.App table {
+  margin: auto;
+}
+.App table {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.App table thead tr {
+  background-color: rgb(203, 248, 248);
+}
+.App th {
+  padding: 10px 25px;
+}
+.App td {
+  padding: 10px 30px;
+  border: 1px solid blue;
+}
